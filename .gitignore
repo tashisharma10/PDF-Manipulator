@@ -20,5 +20,8 @@ __pycache__/
 # MacOS Finder metadata
 .DS_Store
 
+# Exclude Poppler directory
+poppler/
+
 # Windows thumbnails
 Thumbs.db
