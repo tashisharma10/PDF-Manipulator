@@ -1,6 +1,21 @@
 # PDF-Manipulator
-## Setup
+PDF Manipulator is a Python-based tool for manipulating PDF files. It provides functionalities such as converting PDFs to other formats, extracting images, and more. This project leverages libraries like `pikepdf`, `docx2pdf`, `pdf2docx` and many more to offer comprehensive PDF handling capabilities.
 
+## Features
+- Convert PDF to DOCX
+- Convert PDF to Images
+- Extract images from PDFs
+- Convert DOCX to PDF
+- Rotate PDF
+- Reverse PDF
+- Merge PDFs
+- Split PDFs
+- Encrypt PDFs
+- Reorder PDF
+- Delete pages from PDF
+- Add Watermark in PDF
+- 
+## Setup
 1. Clone the repository:
 
     ```bash
@@ -21,4 +36,9 @@
     pip install -r requirements.txt
     ```
 
-4. Run your script or application as needed.
+4. ## Dependencies
+
+This project requires Poppler to be installed. You can download it from [Poppler's official site](https://poppler.freedesktop.org/) and follow the installation instructions provided there.
+
+Ensure that Poppler is installed in a directory that's included in your system's PATH.
+
