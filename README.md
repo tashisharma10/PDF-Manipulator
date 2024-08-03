@@ -14,7 +14,7 @@ PDF Manipulator is a Python-based tool for manipulating PDF files. It provides f
 - Reorder PDF
 - Delete pages from PDF
 - Add Watermark in PDF
-- 
+  
 ## Setup
 1. Clone the repository:
 
